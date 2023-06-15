@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "dfd05b7b4874bfc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "db3077b0447b0b4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95dd35b217a01ebb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7bd58a3dcff468fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400_模板/410_日记模板/412_自动判断并移动日记模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee8a841af4b5c7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400_模板/410_日记模板/411_日记模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a975e2720e2d7da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400_模板/410_日记模板/412_自动判断并移动日记模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b38e0d4632b26843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400_模板/440_demo模板/442_测试语法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8055927544177b41",
+    "type": "split",
+    "children": [
+      {
+        "id": "6325eba42a9707e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17b68c925f60c468",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6da6ade4d6a2200",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8f2a0a6b99f7ef5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "395bb64e30ca66cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c924f009032d3ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b233e7c96f39f16d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "400_模板/440_demo模板/442_测试语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d55e1d45460b088",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "400_模板/440_demo模板/442_测试语法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b93b8cb0d3f374f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80d4ed8ea22817b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "400_模板/440_demo模板/442_测试语法.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "b38e0d4632b26843",
+  "lastOpenFiles": [
+    "400_模板/440_demo模板/441_被测试.md",
+    "400_模板/440_demo模板/442_测试语法.md",
+    "400_模板/440_demo模板/444_Templater的演示模板.md",
+    "400_模板/410_日记模板/412_自动判断并移动日记模板.md",
+    "400_模板/410_日记模板/413_日记模板自动判断添加.md",
+    "400_模板/410_日记模板/411_日记模板.md",
+    "400_模板/440_demo模板/0.md",
+    "200_博客/201_文章/003_Hexo标签外挂.md",
+    "200_博客/201_文章/002_hello-world中文版.md",
+    "200_博客/201_文章/001_hello-world.md",
+    "200_博客/201_文章/000_demo.md",
+    "200_博客/201_文章",
+    "200_博客/_posts",
+    "200_博客",
+    "201_文章/003_Hexo标签外挂.md",
+    "201_文章/002_hello-world中文版.md",
+    "201_文章/001_hello-world.md",
+    "201_文章/000_demo.md",
+    "201_文章",
+    "200_博客/_posts/002_hello-world中文版-苏苏.md",
+    "200_博客/_posts/002_hello-world中文版.md",
+    "200_博客/_posts/001_hello-world.md",
+    "200_博客/_posts/000_demo.md",
+    "200_博客/_posts/003_Hexo标签外挂.md",
+    "200_博客/_posts/003_Hexo标签外挂-苏苏.md",
+    "400_模板/450_工作模板",
+    "400_模板/440_demo模板",
+    "400_模板/430_个人模板",
+    "400_模板/420_博客模板",
+    "400_模板/410_日记模板",
+    "400_模板"
+  ]
+}
